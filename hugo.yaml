@@ -69,7 +69,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Üdvözöllek! 👋"
+    Title: "Kis Zsolt - Üdvözöllek! 👋"
     Content: "Szia! Kis Zsolt vagyok, és a diákönkormányzat elnöki posztjára indulok. Itt megismerheted a programomat és céljaimat."
 
   socialIcons:
