@@ -6,5 +6,11 @@ tags: ["GYIK", "kérdések", "válaszok"]
 categories: ["tájékoztatás"]
 ---
 
+# GYIK
+- Mi a főnyeremény?
+1 nap közművelődés az osztályodnak
+- Hogyan lehet nyerni?
+Szerezz minél több pontot az osztályodnak!
+
+
 ## Ha bármi kérdésed van keress bizalommal!
-## Itt fognak megjelenni a leggyakrabban ismételt kérdések
