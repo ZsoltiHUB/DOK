@@ -35,8 +35,8 @@ Különböző társasjátékok behozása és közös játék lehetősége.
 
 ### 🐍 Állatsimogató
 **Szervező**: M. Edina + további önkéntesek  
-Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is). Általános tudnivalók a fajról és ismérveiről, csak nektek csak most.
-És ha nagyon jól viselkedtek, akár nyakba is vehető.
+Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is).  Általános tudnivalók a fajról és ismérveiről, csak nektek csak most.  
+És ha nagyon jól viselkedtek, akár nyakba is vehető.  
 
 ### 🎬 MOZI: 4K-s TV-n Film/Sorozat
 Valamilyen filmet vagy sorozatot letöltünk, esetleg szavazással választjuk ki.
@@ -93,14 +93,14 @@ Mindenki hozhat be egy üdítőt, amit ha megengedik, egy iskolai hűtőben leh�
 A tavalyi sikeres Minecraft verseny folytatása különböző kihívásokkal.
 
 ### 🎮 Játékterem (engedélyeztetés alatt)
-Többjátékos videojátékok nagy TV-n való játszása.
+Többjátékos videojátékok nagy TV-n való játszása.  
 A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és 4K tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
 
-Megvalósítási terv:
-A terembe beviszem a saját PC-met, amit HDMI-kábellel rákötünk az osztályterem tévéjére. A gépen előre feltelepített, többjátékos játékokat fogunk futtatni, amelyek támogatják a helyi (local) többfős játékot akár 8 játékos számára is – például Super Smash Bros. Ultimate, Mario Kart vagy Overcooked!.
-A diákokat (osztálytársak/évfolyamtársak) előzetesen megkérjük, hogy hozzanak magukkal kontrollert (PS5/4, Xbox, stb.), amit USB-n vagy Bluetooth-on keresztül tudunk csatlakoztatni a géphez. (Összesen 4-10 kontroller kéne)
-(Opcionálisan: A pontos játékválasztásról előre készítünk egy Forms-kérdőívet, ahol a tanulók szavazhatnak, hogy mely játékokat szeretnék játszani az eseményen.)
-Körönként 4–8 fő tud majd játszani, a kontrollereket pedig váltogatjuk a résztvevők között. (Több kontrollert is viszünk tartalékba, arra az esetre, ha valamelyik lemerül vagy nem működik megfelelően.)
+Megvalósítási terv:  
+A terembe beviszem a saját PC-met, amit HDMI-kábellel rákötünk az osztályterem tévéjére. A gépen előre feltelepített, többjátékos játékokat fogunk futtatni, amelyek támogatják a helyi (local) többfős játékot akár 8 játékos számára is – például Super Smash Bros. Ultimate, Mario Kart vagy Overcooked!.  
+A diákokat (osztálytársak/évfolyamtársak) előzetesen megkérjük, hogy hozzanak magukkal kontrollert (PS5/4, Xbox, stb.), amit USB-n vagy Bluetooth-on keresztül tudunk csatlakoztatni a géphez. (Összesen 4-10 kontroller kéne)  
+(Opcionálisan: A pontos játékválasztásról előre készítünk egy Forms-kérdőívet, ahol a tanulók szavazhatnak, hogy mely játékokat szeretnék játszani az eseményen.)  
+Körönként 4–8 fő tud majd játszani, a kontrollereket pedig váltogatjuk a résztvevők között. (Több kontrollert is viszünk tartalékba, arra az esetre, ha valamelyik lemerül vagy nem működik megfelelően.)  
 A program közösségépítő, szórakoztató és jól leköti a különböző évfolyamokból érkező tanulókat is.
 
 ### 🎒 No Backpack Day RELOADED
