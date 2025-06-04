@@ -19,7 +19,7 @@ Itt találod a kampányom legfontosabb programjait és ötleteit.
 
 ### 🎮 Saját Programjaim
 - 🎲 **Társasjátékterem**
-- 🐍 **Állatsimogató** (Edina vezetésével)
+- 🐍 **Állatsimogató** (M. Edina vezetésével)
 - 🎬 **Mozi 4K TV-n**
 - 🥤 **Frissítő pont** - hűtött üdítők
 - ⛏️ **Minecraft verseny**

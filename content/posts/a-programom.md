@@ -34,7 +34,7 @@ Minden osztály sorsolással kap egy zenei stílust, amely köré tematikus prog
 Különböző társasjátékok behozása és közös játék lehetősége.
 
 ### 🐍 Állatsimogató
-**Szervező**: Edina + további önkéntesek  
+**Szervező**: M. Edina + további önkéntesek  
 Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is). Általános tudnivalók a fajról és ismérveiről, csak nektek csak most
 És ha nagyon jól viselkedtek akár nyakba is vehető
 
