@@ -5,21 +5,42 @@ draft: false
 weight: 1
 ---
 
-# Programok
+# A Programom - Rövid Áttekintés
 
-Mindegyik programhoz képviselők lesznek kijelölve a szervezés és lebonyolítás érdekében.
+Itt találod a kampányom legfontosabb programjait és ötleteit. 
 
-## Fix Programok
+## 🎯 Főbb Programkategóriák
 
-### 📚 Osztályok Között Kahoot
-Interaktív kvízjáték az osztályok közötti verseny szellemében.
+### 📚 Fix Programok
+- **Osztályok között Kahoot** - Interaktív kvízverseny
+- **Zenei stílusok sorsolása** (Gimi)  
+- **Korcsoportos programok** (Áltsuli)
+- **Sportnap** (K. Emilio + P. Viktor szervezésében)
 
-### 🎵 Gimi: Zenei Stílusok Sorsolása Osztályonként
-Minden osztály sorsolással kap egy zenei stílust, amely köré tematikus programokat szervezhetnek.
+### 🎮 Saját Programjaim
+- 🎲 **Társasjátékterem**
+- 🐍 **Állatsimogató** (Edina vezetésével)
+- 🎬 **Mozi 4K TV-n**
+- 🥤 **Frissítő pont** - hűtött üdítők
+- ⛏️ **Minecraft verseny**
+- 🎮 **Játékterem** - többjátékos videojátékok
+- 🎒 **No Backpack Day RELOADED**
+- 🎵 **Zene kívánságműsor**
+- 💦 **Vízipisztoly háború**
+- 👨‍🏫 **Tanárkvíz**
+- 📱 **Mobilos játék versenyek**
 
-### 🏫 Áltsuli: Korcsoportos Programok
-- **8-10-ig**: Sportprogramok
-- **10 órától az osztálytermekben**: Mesék kisorsolása, a terem berendezése
+---
+
+## 📋 Részletes Program Leírások
+
+**[🔗 Itt találod a teljes, részletes programtervet!](/posts/a-programom/)**
+
+A fenti linken megtalálod minden program részletes leírását, megvalósítási tervét és gyakorlati részleteit.
+
+---
+
+*Minden program megvalósítása a diákok igényei és az iskola lehetőségei szerint alakul. A részleteket közösen dolgozzuk ki!*
 
 ### 🏃‍♂️ SPORTNAP
 **Szervezők**: K. Emilio + P. Viktor
