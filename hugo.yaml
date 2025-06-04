@@ -73,12 +73,8 @@ params:
     Content: "Szia! Kis Zsolt vagyok, és a diákönkormányzat elnöki posztjára indulok. Itt megismerheted a programomat és céljaimat."
 
   socialIcons:
-    - name: instagram
-      url: "https://instagram.com/kiszsolt_dok"
-    - name: facebook  
-      url: "https://facebook.com/kiszsolt.dok.kampany"
     - name: email
-      url: "mailto:kis.zsolt.dok@gmail.com"
+      url: "mailto:kis.zsolt@balintsuli.hu"
 
   analytics:
     google:
