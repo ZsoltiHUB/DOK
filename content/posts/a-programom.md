@@ -42,7 +42,7 @@ Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha m�
 Valamilyen filmet vagy sorozatot letöltünk, esetleg szavazással választjuk ki.
 
 ### 🥤 Frissítő Pont → Hűtött Üdítők
-Mindenki hozhatna be egy üdítőt, amit egy iskolai hűtőben lehűtenénk, és ihatna aki szomjas.
+Mindenki hozhatna be egy üdítőt, amit egy iskolai hűtőben lehűtenénk, és aki megszomjazna a sportolás közben vagy a nyári nap hőségében egy hideg üdítőre vágyik, annak biztosítjuk ezt a lehetőséget.
 
 ### ⛏️ Minecraft Verseny
 Ahogy tavaly volt - népszerű építési és survival kihívások.
