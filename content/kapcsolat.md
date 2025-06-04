@@ -19,6 +19,7 @@ Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, 
 
 **Személyesen:**  
 🏫 Minden nap megtalálsz az iskolában -> 11.A / fiú mosdó
+
 ⏰ Nagy szünetekben is ott
 
 ### 💬 Mikor keress meg?
