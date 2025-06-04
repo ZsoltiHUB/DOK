@@ -47,4 +47,4 @@ egyelőre csak
 ---
 
 
-🗳️ **#KisZsolttal a változásért!**
+🗳️ **#ZsisKolttal a változásért!**
