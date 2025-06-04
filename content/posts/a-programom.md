@@ -70,12 +70,12 @@ Ha megoldható a technikai háttér - mobilos játékok versenye különböző k
 ## Részletes Leírások
 
 ### Sportnap🏃‍♂️
-Röpi-Foci
-Röpi: tesiteremben két harmadban
-Foci: kinn
-osztályonként 1-1 csapat
-foci - 8 fő
-tesitanárok managelnek - Köszönjük!
+Röpi-Foci  
+Röpi: tesiteremben két harmadban  
+Foci: kinn  
+osztályonként 1-1 csapat  
+foci - 8 fő  
+tesitanárok managelnek - Köszönjük!  
 
 ### 🎲 Társasjátékterem
 Behozunk különböző társasjátékokat, hogy a diákok kipróbálhassák őket és együtt játszhassanak.
