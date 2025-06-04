@@ -11,6 +11,7 @@ categories: ["kampány"]
 ### 👥 **Tanulói támogatók**
 11.A egyes tanulói
 
+
 ### 👨‍🏫 **Tanári támogatás**
 Juhászné Kenesey Márta
 .
