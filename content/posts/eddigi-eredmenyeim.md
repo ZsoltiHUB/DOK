@@ -19,4 +19,3 @@ categories: ["bemutatkozás"]
 - Osztályom számára az idei és jövő évi osztálykirándulás szervezésében segítettem társammal
 - Szervezések lebonyolításában **nagy tapasztalat**tal rendelkezem.
 - Nem csak a közösségi szolgálataimban végzek kitűnő munkát, hanem a tanulmányaimban is a **kitűnő munkára törekszem**
-![tanulmany](/images/jegyek.png "jegyeim")
