@@ -41,7 +41,7 @@ Keresek motivált diákokat, akik segítenének a kampányban:
 ### 📊 Visszajelzés
 
 Ha van visszajelzésed a honlappal vagy a kampánnyal kapcsolatban, azt is szívesen fogadom!
-egyelőre csak
+egyelőre csak  
 11.A vagy kis.zsolt@balintsuli.hu
 
 ---

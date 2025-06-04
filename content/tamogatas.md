@@ -17,7 +17,7 @@ date: 2025-06-04T10:00:00+02:00
 ### 🙋‍♀️ Csatlakozz a csapathoz!
 
 **Csatlakozni a kollégámnál lehet:**
-👨‍🎓 Antal Ábris (11.A)
+👨‍🎓 Antal Ábris (11.A)  
 📧 antal.abris@balintsuli.hu
 
 ### 📧 Vedd fel velem a kapcsolatot!
