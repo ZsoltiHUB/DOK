@@ -35,8 +35,8 @@ Különböző társasjátékok behozása és közös játék lehetősége.
 
 ### 🐍 Állatsimogató
 **Szervező**: M. Edina + további önkéntesek  
-Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is). Általános tudnivalók a fajról és ismérveiről, csak nektek csak most
-És ha nagyon jól viselkedtek akár nyakba is vehető
+Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is). Általános tudnivalók a fajról és ismérveiről, csak nektek csak most.
+És ha nagyon jól viselkedtek, akár nyakba is vehető.
 
 ### 🎬 MOZI: 4K-s TV-n Film/Sorozat
 Valamilyen filmet vagy sorozatot letöltünk, esetleg szavazással választjuk ki.
@@ -69,6 +69,9 @@ Ha megoldható a technikai háttér - mobilos játékok versenye különböző k
 
 ## Részletes Leírások
 
+### Sportnap🏃‍♂️
+
+
 ### 🎲 Társasjátékterem
 Behozunk különböző társasjátékokat, hogy a diákok kipróbálhassák őket és együtt játszhassanak.
 
@@ -84,7 +87,7 @@ Mindenki hozhat be egy üdítőt, amit ha megengedik, egy iskolai hűtőben leh�
 ### ⛏️ Minecraft Verseny
 A tavalyi sikeres Minecraft verseny folytatása különböző kihívásokkal.
 
-### 🎮 Játékterem
+### 🎮 Játékterem (engedélyeztetés alatt)
 Többjátékos videojátékok nagy TV-n való játszása.
 A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és 4K tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
 
@@ -99,7 +102,7 @@ A program közösségépítő, szórakoztató és jól leköti a különböző �
 A tavalyi "no backpack day" újragondolt változata, most jutalommal, hogy legyen motiváció a részvételhez.
 
 ### 🎵 Zene Kívánságműsor
-Hasonlóan a tavalyi évhez - diákok zenei kívánságainak lejátszása szünetekben vagy programok alatt.
+Hasonlóan a tavalyi évhez - diákok zenei kívánságainak lejátszása szünetekben vagy programok alatt. Előzetes szavazás alapján.
 
 ### 👨‍🏫 Tanárkvíz
 Interaktív játék, ahol a tanárok elárulnak magukról egy-egy érdekes információt, amit nem sokan tudhatnak, de nem privát jellegű. A diákok feladata ezeket az információokat a megfelelő tanárokkal párosítani.
