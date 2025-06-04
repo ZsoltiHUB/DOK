@@ -32,14 +32,14 @@ Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, 
 ### 🤝 Csatlakozz a csapatomhoz!
 
 Keresek motivált diákokat, akik segítenének a kampányban:
-
-### 📝 Ötletláda
-
-
+egyelőre csak
+11.A vagy kis.zsolt@balintsuli.hu 
 
 ### 📊 Visszajelzés
 
 Ha van visszajelzésed a honlappal vagy a kampánnyal kapcsolatban, azt is szívesen fogadom!
+egyelőre csak
+11.A vagy kis.zsolt@balintsuli.hu
 
 ---
 

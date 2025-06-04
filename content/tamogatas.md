@@ -15,9 +15,7 @@ date: 2025-06-04T10:00:00+02:00
 - Beszélj róla az osztálytársaiddal
 
 ### 🙋‍♀️ Csatlakozz a csapathoz!
-
+még csak
+11.A vagy kis.zsolt@balintsuli.hu
 ### 📧 Vedd fel velem a kapcsolatot!
----
-
-## Támogatói nyilatkozat
----
+11.A vagy kis.zsolt@balintsuli.hu

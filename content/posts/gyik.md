@@ -7,3 +7,5 @@ categories: ["tájékoztatás"]
 ---
 
 ## ❓ A leggyakoribb kérdések és válaszaim
+
+folyamatban...
