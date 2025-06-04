@@ -58,8 +58,8 @@ params:
     title: "Kis Zsolt"
     subtitle: "DÖK Elnökjelölt"
     imageUrl: "/images/kuki.png"
-    imageWidth: 400
-    imageHeight: 400
+    imageWidth: 120
+    imageHeight: 120
     imageTitle: "Kis Zsolt profilkép"
     buttons:
       - name: Bejegyzések
