@@ -11,17 +11,7 @@ categories: ["hírek"]
 
 Nagy örömmel jelentem be, hogy **hivatalosan is elindult a kampányom** a diákönkormányzat elnöki posztjáért! 🎉
 
-### Mi történt eddig?
-
-### Mi következik?
-
-
-### Segíts te is!
 
 
 
-### Köszönet
-
-
-
-**#KisZsolttal a változásért! 🔥**
+**#ZsisKolttal a változásért! 🔥**
