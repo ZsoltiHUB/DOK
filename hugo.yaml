@@ -57,9 +57,9 @@ params:
     enabled: false # needs to be explicitly set
     title: "Kis Zsolt"
     subtitle: "DÖK Elnökjelölt"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "/static/images/kuki.png"
+    imageWidth: 400
+    imageHeight: 400
     imageTitle: "Kis Zsolt profilkép"
     buttons:
       - name: Bejegyzések
