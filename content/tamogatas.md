@@ -10,12 +10,15 @@ date: 2025-06-04T10:00:00+02:00
 ## Hogyan segíthetsz?
 
 ### 💬 Beszélj róla!
-- Ossz meg a kampányomat a barátaiddal
+- Osszd meg a kampányomat a barátaiddal
 - Írd alá a támogatói nyilatkozatot
 - Beszélj róla az osztálytársaiddal
 
 ### 🙋‍♀️ Csatlakozz a csapathoz!
-még csak
-11.A vagy kis.zsolt@balintsuli.hu
+
+**Csatlakozni a kollégámnál lehet:**
+👨‍🎓 Antal Ábris (11.A)
+📧 antal.abris@balintsuli.hu
+
 ### 📧 Vedd fel velem a kapcsolatot!
 11.A vagy kis.zsolt@balintsuli.hu

@@ -6,6 +6,4 @@ tags: ["GYIK", "kérdések", "válaszok"]
 categories: ["tájékoztatás"]
 ---
 
-## ❓ A leggyakoribb kérdések és válaszaim
-
-folyamatban...
+## Ha bármi kérdésed van keress bizalommal!

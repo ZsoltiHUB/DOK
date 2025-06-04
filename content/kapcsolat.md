@@ -7,7 +7,7 @@ weight: 4
 
 ## 📞 Lépj kapcsolatba velem!
 
-Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, kérdésed, vagy csak beszélgetni szeretnél, bátran keress meg!
+Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, kérdésed, bátran keress meg!
 
 ### 📧 Elérhetőségeim
 
@@ -18,13 +18,13 @@ Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, 
 
 
 **Személyesen:**  
-🏫 Minden nap megtalálsz az iskolában   
-⏰ Nagy szünetekben általában az aulában vagyok
+🏫 Minden nap megtalálsz az iskolában -> 11.A / fiú mosdó
+⏰ Nagy szünetekben is ott
 
 ### 💬 Mikor keress meg?
 
 **Bátran írj, ha:**
-- Van ötleted az iskola fejlesztésére
+- Van ötleted
 - Problémád van, amiben segíteni tudok
 - Kérdésed van a programommal kapcsolatban
 - Csatlakozni szeretnél a kampánycsapatomhoz
@@ -32,8 +32,10 @@ Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, 
 ### 🤝 Csatlakozz a csapatomhoz!
 
 Keresek motivált diákokat, akik segítenének a kampányban:
-egyelőre csak
-11.A vagy kis.zsolt@balintsuli.hu 
+
+**Csatlakozni a kollégámnál lehet:**
+👨‍🎓 Antal Ábris (11.A)
+📧 antal.abris@balintsuli.hu
 
 ### 📊 Visszajelzés
 
