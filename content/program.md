@@ -33,7 +33,8 @@ Különböző társasjátékok behozása és közös játék lehetősége.
 
 ### 🐍 Állatsimogató
 **Szervező**: Edina + további önkéntesek  
-Molnár Edina be tudja hozni a kígyóját, esetleg más állatok is csatlakozhatnak.
+Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is). Általános tudnivalók a fajról és ismérveiről, csak nektek csak most
+És ha nagyon jól viselkedtek akár nyakba is vehető
 
 ### 🎬 MOZI: 4K-s TV-n Film/Sorozat
 Valamilyen filmet vagy sorozatot letöltünk, esetleg szavazással választjuk ki.
