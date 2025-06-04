@@ -7,3 +7,4 @@ categories: ["tájékoztatás"]
 ---
 
 ## Ha bármi kérdésed van keress bizalommal!
+## Itt fognak megjelenni a leggyakrabban ismételt kérdések
