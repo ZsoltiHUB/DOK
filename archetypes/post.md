@@ -1,11 +1,12 @@
 ---
-title: "Elindult a kampány! 🚀"
-date: 2025-06-04T10:00:00+02:00
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+date: {{ .Date }}
 # weight: 1 # Post order weight (lower numbers appear first)
-# aliases: ["/kampany-indul"] # Alternative URLs that redirect to this post
-tags: ["kampány", "indulás", "DÖK"] # Tags for categorization and filtering
-categories: ["hírek"] # Categories for broader classification
+# aliases: ["/first"] # Alternative URLs that redirect to this post
+tags: ["tag1", "tag2"] # Tags for categorization and filtering
+categories: ["category"] # Categories for broader classification
 author: "Kis Zsolt" # Post author name
+# author: ["Author1", "Author2"] # Multiple authors (uncomment if needed)
 
 # Table of Contents settings
 showToc: true # Show table of contents
@@ -17,16 +18,18 @@ hidemeta: false # Hide post metadata (date, author, etc.)
 comments: false # Enable/disable comments (if comment system is configured)
 
 # SEO and meta information
-description: "Hivatalosan elindult a DÖK elnöki kampányom! Ismerd meg a céljaimat és csatlakozz hozzám!"
-canonicalURL: "https://kukievo.hu/posts/kampany-indul/" # Canonical URL for SEO
-keywords: ["kampány", "indulás", "DÖK", "elnökjelölt", "diákönkormányzat"] # SEO keywords
+description: "Brief description of the post content for SEO and social sharing."
+canonicalURL: "https://kukievo.hu/posts/{{ .File.ContentBaseName }}/" # Canonical URL for SEO
+keywords: ["keyword1", "keyword2"] # SEO keywords
 
 # Code highlighting settings
 disableHLJS: false # Disable Hugo's built-in syntax highlighting
+# disableHLJS: true # Uncomment to disable if using external highlighter
 
 # Social sharing and discovery
 disableShare: false # Hide social share buttons (controlled by site config ShowShareButtons)
 searchHidden: false # Hide from site search results
+# searchHidden: true # Uncomment to exclude from search
 
 # Reading experience settings
 ShowReadingTime: true # Display estimated reading time
@@ -39,11 +42,12 @@ hideSummary: false # Hide post summary/excerpt in lists
 
 # Cover image configuration
 cover:
-    image: "/images/kampany-indul-cover.jpg" # Cover image path (relative to static folder)
-    alt: "Kampány indulás" # Alternative text for accessibility
-    caption: "Elindult a változás útja" # Caption text below image
+    image: "/images/post-cover.jpg" # Cover image path (relative to static folder)
+    alt: "Cover image description" # Alternative text for accessibility
+    caption: "Image caption displayed under cover" # Caption text below image
     relative: false # Set to true when using page bundles with local images
     hidden: true # Hide cover image on single post page (show only in lists)
+    # hidden: false # Uncomment to show cover on single post page too
 
 # Post editing configuration (for GitHub integration)
 editPost:
@@ -51,11 +55,23 @@ editPost:
     Text: "Javaslat változtatásra" # Text for edit link button
     appendFilePath: true # Append file path to edit URL for direct GitHub editing
 ---
-# WORK IN PROGRESS
 
-## Sziasztok!
+# {{ replace .File.ContentBaseName "-" " " | title }}
 
-Nagy örömmel jelentem be, hogy **hivatalosan is elindult a kampányom** a diákönkormányzat elnöki posztjáért! 🎉
+Ide írd a poszt tartalmát...
 
+## Alcím
 
-**#ZsisKolttal a változásért! 🔥**
+További tartalom...
+
+### Kisebb alcím
+
+- Lista elem 1
+- Lista elem 2
+- Lista elem 3
+
+**Fontos:** Ez egy példa poszt sablon.
+
+---
+
+*{{ .Site.Params.author }} - {{ dateFormat "2006. január 2." .Date }}*

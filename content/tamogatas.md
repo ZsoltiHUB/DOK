@@ -11,7 +11,6 @@ date: 2025-06-04T10:00:00+02:00
 
 ### 💬 Beszélj róla!
 - Osszd meg a kampányomat a barátaiddal
-- Írd alá a támogatói nyilatkozatot
 - Beszélj róla az osztálytársaiddal
 
 ### 🙋‍♀️ Csatlakozz a csapathoz!
