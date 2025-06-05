@@ -47,7 +47,7 @@ cover:
 
 # Post editing configuration (for GitHub integration)
 editPost:
-    URL: "https://github.com/ZsoltiHUB/DOK/" # Base URL for edit links
+    URL: "https://github.com/ZsoltiHUB/DOK" # Base URL for edit links
     Text: "Javaslat változtatásra" # Text for edit link button
     appendFilePath: true # Append file path to edit URL for direct GitHub editing
 ---
