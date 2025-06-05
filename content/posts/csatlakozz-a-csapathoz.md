@@ -17,7 +17,7 @@ hidemeta: false # Hide post metadata (date, author, etc.)
 comments: false # Enable/disable comments (if comment system is configured)
 
 # SEO and meta information
-description: "Csatlakozz a kampánycsapatomhoz! Keresek motivált diákokat a változásért."
+description: "Csatlakozz a kampánycsapatomhoz! Keresek motivált diákokat."
 canonicalURL: "https://kukievo.hu/posts/csatlakozz-a-csapathoz/" # Canonical URL for SEO
 keywords: ["csapat", "önkéntesség", "kampány", "DÖK", "közösség"] # SEO keywords
 
