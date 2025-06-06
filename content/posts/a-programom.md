@@ -101,9 +101,6 @@ A tavalyi "no backpack day" felújított változata, most jutalommal a motiváci
 ### 🎵 Zene Kívánságműsor
 Hasonlóan, mint tavaly - diákok zenei kívánságainak teljesítése.
 
-### 💦 Vízipisztoly Háború
-Nyári frissítő program a meleg napokra.
-
 ### 👨‍🏫 Tanárkvíz
 Játék, ahol a tanárok elárulnak magukról olyan információt, amit nem sokan tudhatnak, de nem privát. Ezeket összegyűjtjük, és a diákok feladata lesz az információkat a tanárokkal párosítani.
 
