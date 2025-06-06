@@ -26,7 +26,6 @@ Itt találod a kampányom legfontosabb programjait és ötleteit.
 - 🎮 **Játékterem** - többjátékos videojátékok
 - 🎒 **No Backpack Day RELOADED**
 - 🎵 **Zene kívánságműsor**
-- 💦 **Vízipisztoly háború**
 - 👨‍🏫 **Tanárkvíz**
 - 📱 **Mobilos játék versenyek**
 
