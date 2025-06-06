@@ -75,6 +75,14 @@ params:
   socialIcons:
     - name: email
       url: "mailto:kis.zsolt@balintsuli.hu"
+    - name: discord
+      url: "https://discord.gg/7JkJAFNZ"
+    - name: facebook
+      url: "https://m.me/ZsoltiGamer"
+    - name: github
+      url: "https://github.com/ZsoltiHUB"
+    - name: instagram
+      url: "https://www.instagram.com/todorteamofficial/"
 
   analytics:
     google:

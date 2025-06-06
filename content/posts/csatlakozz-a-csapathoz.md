@@ -56,7 +56,7 @@ editPost:
 
 A kampány nem egyedül megy! **Keresek motivált diákokat**, akik hisznek a változásban és szeretnének aktívan részt venni a munkában.
 
-## 📧 Csatlakozás
+## 📧 Csatlakozás (egyelőre csak e-mailben / személyesen)
 
 **Csatlakozni a kollégámnál lehet:**
 👨‍🎓 Antal Ábris (11.A)

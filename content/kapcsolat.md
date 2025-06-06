@@ -10,15 +10,16 @@ weight: 4
 Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, kérdésed, bátran keress meg!
 
 ### 📧 Elérhetőségeim
+ - Megtalálod a **kezdőlapon** is
 
 **Email cím:**  
 📮 kis.zsolt@balintsuli.com
 
 **Közösségi média:**  
-
+discord dm: 
 
 **Személyesen:**  
-🏫 Minden nap megtalálsz az iskolában -> 11.A / fiú mosdó
+🏫 Minden nap megtalálsz az iskolában -> 11.A / fiú mosdó  
 
 ⏰ Nagy szünetekben is ott
 
