@@ -61,7 +61,7 @@ editPost:
     <span id="minutes">0</span> perc 
     <span id="seconds">0</span> másodperc
   </div>
-  <p style="margin: 10px 0 0 0; opacity: 0.9;">🗳️ Június 10, 2025 - 14:00</p>
+  <p style="margin: 10px 0 0 0; opacity: 0.9;">🗳️ Június 10, 2025 - 14:00 (suli után)</p>
 </div>
 
 <script>
