@@ -53,7 +53,7 @@ editPost:
 ---
 ## Miért pont én?
 - Kronn Emilio által elkezdett irányt tudom folytatni, fejleszteni. Lehet hogy nincs meg jelenleg minden tapasztalatom a feladat betöltéséhez, de készen állok rá, hogy fejlődjek ebben és minél jobban tudjam végezni a feladatomat.
-- Mindegyik korosztályjal fel tudom venni a közös hangot
+- Mindegyik korosztállyal fel tudom venni a közös hangot
 
 
 
