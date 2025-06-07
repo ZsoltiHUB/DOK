@@ -70,7 +70,38 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Kis Zsolt - Üdvözöllek! 👋"
-    Content: "Szia! Kis Zsolt vagyok, és a diákönkormányzat elnöki posztjára indulok. Itt megismerheted a programomat és céljaimat."
+    Content: 'Szia! Kis Zsolt vagyok, és a diákönkormányzat elnöki posztjára indulok. Itt megismerheted a programomat és céljaimat.
+
+<div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 15px; border-radius: 8px; text-align: center; margin: 20px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <div style="font-size: 0.9em; margin-bottom: 8px;">🗳️ <strong>Szavazz rám:</strong> Június 10, 2025 - 14:00</div>
+  <div id="home-countdown" style="font-size: 1.2em; font-weight: bold;">
+    <span id="home-days">0</span>n <span id="home-hours">0</span>ó <span id="home-minutes">0</span>p <span id="home-seconds">0</span>mp
+  </div>
+</div>
+
+<script>
+function updateHomeCountdown() {
+    const votingDay = new Date("2025-06-10T14:00:00+02:00").getTime();
+    const now = new Date().getTime();
+    const distance = votingDay - now;
+    
+    if (distance > 0) {
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        
+        document.getElementById("home-days").textContent = days;
+        document.getElementById("home-hours").textContent = hours;
+        document.getElementById("home-minutes").textContent = minutes;
+        document.getElementById("home-seconds").textContent = seconds;
+    } else {
+        document.getElementById("home-countdown").innerHTML = "🎉 <strong>SZAVAZÁS NAPJA!</strong> 🎉";
+    }
+}
+setInterval(updateHomeCountdown, 1000);
+updateHomeCountdown();
+</script>'
 
   socialIcons:
     - name: email
@@ -138,6 +169,9 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allow raw HTML in markdown (needed for countdown timer)
   highlight:
     noClasses: false
     # anchorLineNos: true
@@ -145,3 +179,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+# Suppress the raw HTML warning
+ignoreLogs: ['warning-goldmark-raw-html']

@@ -6,4 +6,5 @@ weight: 2
 ---
  # WORK IN PROGRESS
 
-## 👋 Szia, Kis Zsolt vagyok!
+## 👋 Szia, Kis Zsolt vagyok!  
+11.A tanulója  

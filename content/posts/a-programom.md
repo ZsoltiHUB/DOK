@@ -52,9 +52,55 @@ editPost:
     appendFilePath: true # Append file path to edit URL for direct GitHub editing
 ---
 
+<!-- Countdown Timer for Voting Day -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+  <h2 style="margin: 0 0 15px 0; font-size: 1.5em;">⏰ Szavazás Napja</h2>
+  <div id="countdown" style="font-size: 2em; font-weight: bold; margin: 10px 0;">
+    <span id="days">0</span> nap 
+    <span id="hours">0</span> óra 
+    <span id="minutes">0</span> perc 
+    <span id="seconds">0</span> másodperc
+  </div>
+  <p style="margin: 10px 0 0 0; opacity: 0.9;">🗳️ Június 10, 2025 - 14:00</p>
+</div>
+
+<script>
+// Countdown Timer Script
+function updateCountdown() {
+    // Set the voting day date and time (June 10, 2025 at 8:00 AM)
+    const votingDay = new Date('2025-06-10T14:00:00+02:00').getTime();
+    const now = new Date().getTime();
+    const distance = votingDay - now;
+
+    // Calculate time units
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Display the countdown
+    document.getElementById('days').textContent = days;
+    document.getElementById('hours').textContent = hours;
+    document.getElementById('minutes').textContent = minutes;
+    document.getElementById('seconds').textContent = seconds;
+
+    // If countdown is finished
+    if (distance < 0) {
+        document.getElementById('countdown').innerHTML = "🎉 SZAVAZÁS NAPJA! 🎉";
+    }
+}
+
+// Update countdown every second
+setInterval(updateCountdown, 1000);
+
+// Initial call
+updateCountdown();
+</script>
+
 # Programok
 
-Mindegyik programhoz képviselők lesznek kijelölve a szervezés és lebonyolítás érdekében.
+Mindegyik programhoz képviselők lesznek kijelölve a szervezés és lebonyolítás érdekében.  
+Célom, hogy minél több program megvalósuljon a felső tagozat számára is.
 
 ## Fix Programok
 
@@ -69,7 +115,7 @@ Minden osztály sorsolással kap egy zenei stílust, amely köré tematikus prog
 - **10 órától az osztálytermekben**: Mesék kisorsolása, a terem berendezése
 
 ### 🏃‍♂️ SPORTNAP
-**Szervezők**: K. Emilio + P. Viktor
+Infó lentebb
 
 ---
 
@@ -123,27 +169,16 @@ tesitanárok managelnek - Köszönjük!
 Behozunk különböző társasjátékokat, hogy a diákok kipróbálhassák őket és együtt játszhassanak.
 
 ### 🐍 Állatsimogató
-Molnár Edina be tudja hozni a kígyóját, esetleg más diákok is hozhatnak háziállatokat (előzetes engedélyeztetés után).
+M. Edina be tudja hozni a kígyóját, esetleg más diákok is hozhatnak háziállatokat (előzetes engedélyeztetés után).
 
 ### 🎬 MOZI
-4K-s TV-n vetítünk filmet vagy sorozatot. A műsort előzetesen szavazással választjuk ki a diákok között.
+4K-s TV-n vetítünk filmet vagy sorozatot. A műsort előzetesen szavazással választjuk ki a diákok között. (A felsősöknek külön mozi??)
 
 ### 🥤 Frissítő Pont
-Mindenki hozhat be egy üdítőt, amit ha megengedik, egy iskolai hűtőben lehűthetünk. Aki szomjas, az ihat belőle.
+Mindenki hozzon be egy üdítőt, amit ha megengedik, egy iskolai hűtőben lehűthetünk. Aki szomjas, az ihat belőle.
 
 ### ⛏️ Minecraft Verseny
-A tavalyi sikeres Minecraft verseny folytatása különböző kihívásokkal.
-
-### 🎮 Játékterem (engedélyeztetés alatt)
-Többjátékos videojátékok nagy TV-n való játszása.  
-A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és 4K tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
-
-Megvalósítási terv:  
-A terembe beviszem a saját PC-met, amit HDMI-kábellel rákötünk az osztályterem tévéjére. A gépen előre feltelepített, többjátékos játékokat fogunk futtatni, amelyek támogatják a helyi (local) többfős játékot akár 8 játékos számára is – például Super Smash Bros. Ultimate, Mario Kart vagy Overcooked!.  
-A diákokat (osztálytársak/évfolyamtársak) előzetesen megkérjük, hogy hozzanak magukkal kontrollert (PS5/4, Xbox, stb.), amit USB-n vagy Bluetooth-on keresztül tudunk csatlakoztatni a géphez. (Összesen 4-10 kontroller kéne)  
-(Opcionálisan: A pontos játékválasztásról előre készítünk egy Forms-kérdőívet, ahol a tanulók szavazhatnak, hogy mely játékokat szeretnék játszani az eseményen.)  
-Körönként 4–8 fő tud majd játszani, a kontrollereket pedig váltogatjuk a résztvevők között. (Több kontrollert is viszünk tartalékba, arra az esetre, ha valamelyik lemerül vagy nem működik megfelelően.)  
-A program közösségépítő, szórakoztató és jól leköti a különböző évfolyamokból érkező tanulókat is.
+A tavalyi sikeres Minecraft verseny folytatása különböző kihívásokkal.  
 
 ### 🎒 No Backpack Day RELOADED
 A tavalyi "no backpack day" újragondolt változata, most jutalommal, hogy legyen motiváció a részvételhez.
@@ -156,6 +191,17 @@ Interaktív játék, ahol a tanárok elárulnak magukról egy-egy érdekes infor
 
 ### 📱 Mobilos Játék Versenyek
 Clash Royale, Brawl Stars és más mobilos játékok versenye - ha megoldható a technikai háttér biztosítása.
+
+### 🎮 Játékterem (engedélyeztetés alatt)
+Többjátékos videojátékok nagy TV-n való játszása.  
+A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és 4K tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
+
+Megvalósítási terv:  
+A terembe beviszem a saját PC-met, amit HDMI-kábellel rákötünk az osztályterem tévéjére. A gépen előre feltelepített, többjátékos játékokat fogunk futtatni, amelyek támogatják a helyi (local) többfős játékot akár 8 játékos számára is – például **Super Smash Bros. Ultimate**, **Mario Kart** vagy **Overcooked!**.  
+A diákokat (osztálytársak/évfolyamtársak) előzetesen megkérjük, hogy hozzanak magukkal kontrollert (PS5/4, Xbox, stb.), amit USB-n vagy Bluetooth-on keresztül tudunk csatlakoztatni a géphez. (Összesen 4-10 kontroller kéne)  
+(Opcionálisan: A pontos játékválasztásról előre készítünk egy Forms-kérdőívet, ahol a tanulók szavazhatnak, hogy mely játékokat szeretnék játszani az eseményen.)  
+Körönként 4–8 fő tud majd játszani, a kontrollereket pedig váltogatjuk a résztvevők között. (Több kontrollert is viszünk tartalékba, arra az esetre, ha valamelyik lemerül vagy nem működik megfelelően.)  
+A program közösségépítő, szórakoztató és jól leköti a különböző évfolyamokból érkező tanulókat is.
 
 ---
 

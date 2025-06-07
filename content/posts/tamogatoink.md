@@ -55,7 +55,8 @@ editPost:
 ## 🙏 Köszönet mindenkinek, aki támogat!
 
 ### 👥 **Tanulói támogatók**
-11.A egyes tanulói
+11.A egyes tanulói  
+Vince a hokis
 
 
 ### 👨‍🏫 **Tanári támogatás**

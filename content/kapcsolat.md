@@ -16,7 +16,7 @@ Fontos számomra, hogy minden diák véleményét megismerjem. Ha van ötleted, 
 📮 kis.zsolt@balintsuli.com
 
 **Közösségi média:**  
-discord dm: 
+kezdőlapon megtalálod   
 
 **Személyesen:**  
 🏫 Minden nap megtalálsz az iskolában -> 11.A / fiú mosdó  

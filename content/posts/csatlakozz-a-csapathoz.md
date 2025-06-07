@@ -8,7 +8,7 @@ categories: ["közösség"] # Categories for broader classification
 author: "Kis Zsolt" # Post author name
 
 # Table of Contents settings
-showToc: true # Show table of contents
+showToc: false # Show table of contents
 TocOpen: false # Whether TOC is expanded by default
 
 # Post status and visibility
