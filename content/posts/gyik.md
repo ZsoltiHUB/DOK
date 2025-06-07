@@ -53,12 +53,14 @@ editPost:
 ---
 
 # GYIK
-- Mi a **főnyeremény**?  
+- ❓ Mi a **főnyeremény**?  
 1 nap közművelődés az osztályodnak.  
-- Hogyan lehet **nyerni**?  
+- ❓ Hogyan lehet **nyerni**?  
 Szerezz minél több pontot az osztályodnak!  
-- **Javasolhatok** programot?  
-Igen, persze! Kapcsolat fülön megtalálod az elérhetőségünket.
+- ❓ **Javasolhatok** programot?  
+Igen, persze! Kapcsolat fülön megtalálod az elérhetőségünket.  
+- ❓Hogyan vonod be a diákokat a döntésekbe?  
+Próbálok minden visszajelzést meghallgatni, szavazásokat létrehozni.
 
 
 ## Ha bármi kérdésed van keress bizalommal!
