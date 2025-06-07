@@ -73,7 +73,7 @@ params:
     Content: 'Szia! Kis Zsolt vagyok, és a diákönkormányzat elnöki posztjára indulok. Itt megismerheted a programomat és céljaimat.
 
 <div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 15px; border-radius: 8px; text-align: center; margin: 20px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-  <div style="font-size: 0.9em; margin-bottom: 8px;">🗳️ <strong>Szavazz rám:</strong> Június 10, 2025 - 14:00 (suli után)</div>
+  <div style="font-size: 0.9em; margin-bottom: 8px;">🗳️ <strong>Szavazz rám:</strong> Június 10, KEDD - 14:00 (suli után)</div>
   <div id="home-countdown" style="font-size: 1.2em; font-weight: bold;">
     <span id="home-days">0</span>n <span id="home-hours">0</span>ó <span id="home-minutes">0</span>p <span id="home-seconds">0</span>mp
   </div>
