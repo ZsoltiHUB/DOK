@@ -61,7 +61,7 @@ editPost:
 
 - [Legkomolyabb programok](/posts/a-programom/)
 - **91 óra** közösségi szolgálat
-- Az idei tanévben a **szallagavatót**, a **március 15-ei ünnepséget**, és a **12.-es ballagás technikai terét** én és társam oldottuk meg ezzel is az iskola életében nagy szerepet vállalva.
+- Az idei tanévben a **szallagavatót**, a **március 15-ei ünnepséget**, és a **12.-es ballagás technikai részét** én és társam oldottuk meg ezzel is az iskola életében nagy szerepet vállalva.
 - Osztályom számára az idei és jövő évi osztálykirándulás szervezésében segítettem társammal
 - Szervezések lebonyolításában **nagy tapasztalat**tal rendelkezem.
 - Nem csak a közösségi szolgálataimban végzek kitűnő munkát, hanem a tanulmányaimban is a **kitűnő munkára törekszem**
