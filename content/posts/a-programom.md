@@ -162,7 +162,7 @@ Röpi-Foci
 Röpi: tesiteremben két harmadban  
 Foci: kinn  
 osztályonként 1-1 csapat  
-foci - 8 fő  
+foci - 10 fő (5+1 játszik, 4 csere)  
 tesitanárok managelnek - Köszönjük!  
 
 ### 🎲 Társasjátékterem
