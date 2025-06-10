@@ -1,5 +1,5 @@
 ---
-title: "A SZAVAZÁS ELINDULT"
+title: "A SZAVAZÁS ELINDULT [LINK]"
 date: 2025-06-10T13:59:32+02:00
 weight: 2 # Post order weight (lower numbers appear first)
 # aliases: ["/first"] # Alternative URLs that redirect to this post
