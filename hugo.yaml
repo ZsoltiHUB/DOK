@@ -72,18 +72,25 @@ params:
     Title: "Kis Zsolt - Üdvözöllek! 👋"
     Content: 'Szia! Kis Zsolt vagyok, és a diákigazgatói posztra pályázok. Itt megismerheted a programomat és céljaimat.
 
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 15px; border-radius: 8px; text-align: center; margin: 20px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-  <div style="font-size: 0.9em; margin-bottom: 8px;">🗳️ <strong>Szavazz rám:</strong> Június 10, KEDD - 14:00 (suli után)</div>
-  <div id="home-countdown" style="font-size: 1.2em; font-weight: bold;">
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 50%, #e55039 100%); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 25px 0; box-shadow: 0 6px 20px rgba(238,90,36,0.4); animation: homeGlow 2s infinite alternate;">
+  <div style="font-size: 1em; margin-bottom: 10px; font-weight: bold;">🗳️ SZAVAZÁS FOLYAMATBAN!</div>
+  <div id="home-countdown" style="font-size: 1.4em; font-weight: bold; margin: 12px 0;">
     <span id="home-days">0</span>n <span id="home-hours">0</span>ó <span id="home-minutes">0</span>p <span id="home-seconds">0</span>mp
   </div>
+  <div style="font-size: 0.85em; opacity: 0.9; margin-top: 8px;">⏰ Szavazás vége: Június 11, SZERDA - 08:00</div>
 </div>
 
+<style>
+@keyframes homeGlow {
+  0% { box-shadow: 0 6px 20px rgba(238,90,36,0.4); }
+  100% { box-shadow: 0 8px 30px rgba(238,90,36,0.8); }
+}
+</style>
+
 <script>
-function updateHomeCountdown() {
-    const votingDay = new Date("2025-06-10T14:00:00+02:00").getTime();
+function updateHomeCountdown() {    const votingEnd = new Date("2025-06-11T08:00:00+02:00").getTime();
     const now = new Date().getTime();
-    const distance = votingDay - now;
+    const distance = votingEnd - now;
     
     if (distance > 0) {
         const days = Math.floor(distance / (1000 * 60 * 60 * 24));
@@ -91,12 +98,15 @@ function updateHomeCountdown() {
         const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((distance % (1000 * 60)) / 1000);
         
-        document.getElementById("home-days").textContent = days;
-        document.getElementById("home-hours").textContent = hours;
-        document.getElementById("home-minutes").textContent = minutes;
-        document.getElementById("home-seconds").textContent = seconds;
+        if (days > 0) {
+            document.getElementById("home-countdown").innerHTML = 
+                `<span>${days}</span>n <span>${hours}</span>ó <span>${minutes}</span>p <span>${seconds}</span>mp`;
+        } else {
+            document.getElementById("home-countdown").innerHTML = 
+                `<span>${hours}</span>ó <span>${minutes}</span>p <span>${seconds}</span>mp`;
+        }
     } else {
-        document.getElementById("home-countdown").innerHTML = "🎉 <strong>SZAVAZÁS NAPJA!</strong> 🎉";
+        document.getElementById("home-countdown").innerHTML = "🎉 <strong>SZAVAZÁS LEZÁRULT!</strong> 🎉";
     }
 }
 setInterval(updateHomeCountdown, 1000);

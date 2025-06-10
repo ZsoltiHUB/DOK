@@ -1,7 +1,7 @@
 ---
 title: "A Programom - Részletes Terv 📋"
 date: 2025-06-04T12:00:00+02:00
-weight: 1 # Post order weight (lower numbers appear first)
+weight: 3 # Post order weight (lower numbers appear first)
 # aliases: ["/program-reszletes"] # Alternative URLs that redirect to this post
 tags: ["program", "tervek", "DÖK"] # Tags for categorization and filtering
 categories: ["programok"] # Categories for broader classification
@@ -52,41 +52,54 @@ editPost:
     appendFilePath: true # Append file path to edit URL for direct GitHub editing
 ---
 
-<!-- Countdown Timer for Voting Day -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-  <h2 style="margin: 0 0 15px 0; font-size: 1.5em;">⏰ Szavazás Napja</h2>
+<!-- Countdown Timer for Voting End -->
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 50%, #e55039 100%); color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(238,90,36,0.3); animation: pulse 2s infinite;">
+  <h2 style="margin: 0 0 15px 0; font-size: 1.5em;">🗳️ SZAVAZÁS FOLYAMATBAN - SZAVAZZ RÁM!</h2>
   <div id="countdown" style="font-size: 2em; font-weight: bold; margin: 10px 0;">
     <span id="days">0</span> nap 
     <span id="hours">0</span> óra 
     <span id="minutes">0</span> perc 
     <span id="seconds">0</span> másodperc
   </div>
-  <p style="margin: 10px 0 0 0; opacity: 0.9;">🗳️ Június 10, KEDD - 14:00 (suli után)</p>
+  <p style="margin: 10px 0 0 0; opacity: 0.9; font-size: 1.1em;">⏰ Szavazás vége: Június 11, SZERDA - 08:00</p>
 </div>
 
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 4px 15px rgba(238,90,36,0.3); }
+  50% { box-shadow: 0 4px 25px rgba(238,90,36,0.6); }
+  100% { box-shadow: 0 4px 15px rgba(238,90,36,0.3); }
+}
+</style>
+
 <script>
-// Countdown Timer Script
+// Countdown Timer Script for Voting End
 function updateCountdown() {
-    // Set the voting day date and time (June 10, 2025 at 8:00 AM)
-    const votingDay = new Date('2025-06-10T14:00:00+02:00').getTime();
-    const now = new Date().getTime();
-    const distance = votingDay - now;
+    // Set the voting end date and time (June 11, 2025 at 8:00 AM)
+    const votingEnd = new Date('2025-06-11T08:00:00+02:00').getTime();    const now = new Date().getTime();
+    const distance = votingEnd - now;
 
     // Calculate time units
     const days = Math.floor(distance / (1000 * 60 * 60 * 24));
     const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-    // Display the countdown
-    document.getElementById('days').textContent = days;
-    document.getElementById('hours').textContent = hours;
-    document.getElementById('minutes').textContent = minutes;
-    document.getElementById('seconds').textContent = seconds;
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);    // Display the countdown
+    if (days > 0) {
+        document.getElementById('countdown').innerHTML = 
+            `<span id="days">${days}</span> nap 
+             <span id="hours">${hours}</span> óra 
+             <span id="minutes">${minutes}</span> perc 
+             <span id="seconds">${seconds}</span> másodperc`;
+    } else {
+        document.getElementById('countdown').innerHTML = 
+            `<span id="hours">${hours}</span> óra 
+             <span id="minutes">${minutes}</span> perc 
+             <span id="seconds">${seconds}</span> másodperc`;
+    }
 
     // If countdown is finished
     if (distance < 0) {
-        document.getElementById('countdown').innerHTML = "🎉 SZAVAZÁS NAPJA! 🎉";
+        document.getElementById('countdown').innerHTML = "🎉 SZAVAZÁS LEZÁRULT! 🎉";
     }
 }
 
