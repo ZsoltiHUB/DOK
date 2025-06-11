@@ -1,5 +1,5 @@
 ---
-title: "A SZAVAZÁS ELINDULT [LINK]"
+title: "A SZAVAZÁS LEZÁRULT"
 date: 2025-06-10T13:59:32+02:00
 weight: 2 # Post order weight (lower numbers appear first)
 # aliases: ["/first"] # Alternative URLs that redirect to this post
@@ -53,20 +53,7 @@ editPost:
     appendFilePath: true # Append file path to edit URL for direct GitHub editing
 ---
 
-# 🗳️ Szavazás elindult! Szavazzatok rám!
-
-<div style="background: linear-gradient(135deg, #10b981 0%, #3b82f6 100%); color: white; padding: 30px; border-radius: 15px; text-align: center; margin: 30px 0; box-shadow: 0 8px 25px rgba(16,185,129,0.3);">
-  <h2 style="margin: 0 0 20px 0; font-size: 2em;">🎯 SZAVAZZ MOST!</h2>
-  <p style="font-size: 1.2em; margin-bottom: 25px;">Szavazni csak bálintsulis e-mail címmel lehet!</p>
-  
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jXW_rpdgPE2VGHSkqc4rKp1LiWp3gR1Hiv6UXkE4ItZUMUs1UEo2WDYxODhBWURPOVNSNlRSUlVTWi4u&origin=QRCode&qrcodeorigin=presentation" 
-     style="display: inline-block; background: white; color: #10b981; padding: 15px 40px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 1.3em; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: all 0.3s ease;" 
-     target="_blank">
-    🗳️ SZAVAZÁS INDÍTÁSA
-  </a>
-  
-  <p style="margin-top: 20px; font-size: 0.9em; opacity: 0.9;">⏰ Szavazás vége: Június 11, SZERDA - 08:00</p>
-</div>
+# 🗳️❌ A szavazás lezárult!
 
 ## 📋 Fontos információk:
 

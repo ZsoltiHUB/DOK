@@ -1,7 +1,7 @@
 ---
 title: "A Programom - Részletes Terv 📋"
 date: 2025-06-04T12:00:00+02:00
-weight: 3 # Post order weight (lower numbers appear first)
+weight: 1 # Post order weight (lower numbers appear first)
 # aliases: ["/program-reszletes"] # Alternative URLs that redirect to this post
 tags: ["program", "tervek", "DÖK"] # Tags for categorization and filtering
 categories: ["programok"] # Categories for broader classification
