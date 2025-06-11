@@ -69,49 +69,84 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Kis Zsolt - Üdvözöllek! 👋"
+    Title: "Kis Zsolt - Üdvözöllek! 👋"    
     Content: 'Szia! Kis Zsolt vagyok, és a diákigazgatói posztra pályázok. Itt megismerheted a programomat és céljaimat.
 
-<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 50%, #e55039 100%); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 25px 0; box-shadow: 0 6px 20px rgba(238,90,36,0.4); animation: homeGlow 2s infinite alternate;">
-  <div style="font-size: 1em; margin-bottom: 10px; font-weight: bold;">🗳️ SZAVAZÁS FOLYAMATBAN!</div>
-  <div id="home-countdown" style="font-size: 1.4em; font-weight: bold; margin: 12px 0;">
-    <span id="home-days">0</span>n <span id="home-hours">0</span>ó <span id="home-minutes">0</span>p <span id="home-seconds">0</span>mp
+<div style="background: linear-gradient(135deg, #10b981 0%, #3b82f6 50%, #8b5cf6 100%); color: white; padding: 30px; border-radius: 15px; text-align: center; margin: 25px 50px; box-shadow: 0 8px 30px rgba(16,185,129,0.5); animation: victoryPulse 2s infinite; position: relative; overflow: visible;">
+  <!-- Confetti Animation -->
+  <div id="confetti-container" style="position: absolute; top: -20px; left: -20px; width: calc(100% + 40px); height: calc(100% + 40px); pointer-events: none; overflow: hidden;">
+    <div class="confetti" style="position: absolute; width: 8px; height: 8px; background: #ffd700; animation: confetti-fall 3s infinite;"></div>
+    <div class="confetti" style="position: absolute; width: 6px; height: 6px; background: #ff6b6b; animation: confetti-fall 2.5s infinite 0.5s;"></div>
+    <div class="confetti" style="position: absolute; width: 10px; height: 10px; background: #4ade80; animation: confetti-fall 3.5s infinite 1s;"></div>
+    <div class="confetti" style="position: absolute; width: 7px; height: 7px; background: #60a5fa; animation: confetti-fall 2.8s infinite 1.5s;"></div>
+    <div class="confetti" style="position: absolute; width: 9px; height: 9px; background: #a78bfa; animation: confetti-fall 3.2s infinite 2s;"></div>
+    <div class="confetti" style="position: absolute; width: 6px; height: 6px; background: #ffd700; animation: confetti-fall 2.7s infinite 0.8s;"></div>
+    <div class="confetti" style="position: absolute; width: 8px; height: 8px; background: #ff6b6b; animation: confetti-fall 3.3s infinite 1.2s;"></div>
+    <div class="confetti" style="position: absolute; width: 7px; height: 7px; background: #4ade80; animation: confetti-fall 2.9s infinite 1.8s;"></div>
   </div>
-  <div style="font-size: 0.85em; opacity: 0.9; margin-top: 8px;">⏰ Szavazás vége: Június 11, SZERDA - 08:00</div>
+  
+  <!-- Victory Content -->
+  <div style="position: relative; z-index: 10;">
+    <div style="font-size: 2.5em; margin-bottom: 15px; animation: bounce 1s infinite;">🏆</div>
+    <div style="font-size: 1.8em; margin-bottom: 10px; font-weight: bold; animation: victoryGlow 1.5s infinite alternate;">
+      GYŐZTEM!
+    </div>
+    <div style="font-size: 1.2em; margin-bottom: 15px; opacity: 0.95;">
+      🎉 Köszönöm a bizalmat! 🎉
+    </div>
+    <div style="font-size: 1em; opacity: 0.9;">
+      Új DÖK Elnök: <strong>Kis Zsolt</strong>
+    </div>
+    <div style="font-size: 0.9em; opacity: 0.8; margin-top: 10px;">
+      Most kezdődik a munka! 💪
+    </div>
+  </div>
 </div>
 
 <style>
-@keyframes homeGlow {
-  0% { box-shadow: 0 6px 20px rgba(238,90,36,0.4); }
-  100% { box-shadow: 0 8px 30px rgba(238,90,36,0.8); }
+@keyframes victoryPulse {
+  0% { 
+    transform: scale(1); 
+    box-shadow: 0 8px 30px rgba(16,185,129,0.5); 
+  }
+  50% { 
+    transform: scale(1.02); 
+    box-shadow: 0 12px 40px rgba(16,185,129,0.8); 
+  }
+  100% { 
+    transform: scale(1); 
+    box-shadow: 0 8px 30px rgba(16,185,129,0.5); 
+  }
 }
-</style>
 
-<script>
-function updateHomeCountdown() {    const votingEnd = new Date("2025-06-11T08:00:00+02:00").getTime();
-    const now = new Date().getTime();
-    const distance = votingEnd - now;
-    
-    if (distance > 0) {
-        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        
-        if (days > 0) {
-            document.getElementById("home-countdown").innerHTML = 
-                `<span>${days}</span>n <span>${hours}</span>ó <span>${minutes}</span>p <span>${seconds}</span>mp`;
-        } else {
-            document.getElementById("home-countdown").innerHTML = 
-                `<span>${hours}</span>ó <span>${minutes}</span>p <span>${seconds}</span>mp`;
-        }
-    } else {
-        document.getElementById("home-countdown").innerHTML = "🎉 <strong>SZAVAZÁS LEZÁRULT!</strong> 🎉";
-    }
+@keyframes victoryGlow {
+  0% { text-shadow: 0 0 10px rgba(255,255,255,0.8); }
+  100% { text-shadow: 0 0 20px rgba(255,215,0,1), 0 0 30px rgba(255,215,0,0.8); }
 }
-setInterval(updateHomeCountdown, 1000);
-updateHomeCountdown();
-</script>'
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(-100px) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(400px) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+.confetti:nth-child(1) { left: 10%; }
+.confetti:nth-child(2) { left: 30%; }
+.confetti:nth-child(3) { left: 50%; }
+.confetti:nth-child(4) { left: 70%; }
+.confetti:nth-child(5) { left: 90%; }
+</style>'
 
   socialIcons:
     - name: email
