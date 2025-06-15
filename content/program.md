@@ -19,15 +19,12 @@ Itt találod a kampányom legfontosabb programjait és ötleteit.
 
 ### 🎮 Saját Programjaim
 - 🎲 **Társasjátékterem**
-- 🐍 **Állatsimogató** (M. Edina vezetésével)
-- 🎬 **Mozi 4K TV-n**
-- 🥤 **Frissítő pont** - hűtött üdítők
+- 🎬 **Mozi Zsolnaiban**
 - ⛏️ **Minecraft verseny**
 - 🎮 **Játékterem** - többjátékos videojátékok
-- 🎒 **No Backpack Day RELOADED**
 - 🎵 **Zene kívánságműsor**
 - 👨‍🏫 **Tanárkvíz**
-- 📱 **Mobilos játék versenyek**
+- 📱 **Brawl Stars verseny**
 
 ---
 

@@ -79,16 +79,8 @@ Infó lentebb
 ### 🎲 Társasjátékterem
 Különböző társasjátékok behozása és közös játék lehetősége.
 
-### 🐍 Állatsimogató
-**Szervező**: M. Edina + további önkéntesek  
-Egy terem ahol hallhattok egy kicsit a kígyókról és tartásukról (meg ha más állat akkor az is).  Általános tudnivalók a fajról és ismérveiről, csak nektek csak most.  
-És ha nagyon jól viselkedtek, akár nyakba is vehető.  
-
-### 🎬 MOZI: 4K-s TV-n Film/Sorozat
+### 🎬 MOZI: Zsolnaiba Film/Sorozat
 Valamilyen filmet vagy sorozatot letöltünk, esetleg szavazással választjuk ki.
-
-### 🥤 Frissítő Pont → Hűtött Üdítők
-Mindenki hozhatna be egy üdítőt, amit egy iskolai hűtőben lehűtenénk, és aki megszomjazna a sportolás közben vagy a nyári nap hőségében egy hideg üdítőre vágyik, annak biztosítjuk ezt a lehetőséget.
 
 ### ⛏️ Minecraft Verseny
 Ahogy tavaly volt - népszerű építési és survival kihívások.
@@ -96,16 +88,13 @@ Ahogy tavaly volt - népszerű építési és survival kihívások.
 ### 🎮 Játékterem – Többjátékos Videojátékok a TV-n
 Különböző többjátékos játékok nagy képernyőn (részletek az lejjebb).
 
-### 🎒 No Backpack Day RELOADED → Jutalom?
-A tavalyi "no backpack day" felújított változata, most jutalommal a motiváció növelése érdekében.
-
 ### 🎵 Zene Kívánságműsor
 Hasonlóan, mint tavaly - diákok zenei kívánságainak teljesítése.
 
 ### 👨‍🏫 Tanárkvíz
 Játék, ahol a tanárok elárulnak magukról olyan információt, amit nem sokan tudhatnak, de nem privát. Ezeket összegyűjtjük, és a diákok feladata lesz az információkat a tanárokkal párosítani.
 
-### 📱 Clash Royale / Brawl Stars / Más Mobilos Játék Verseny
+### 📱Brawl Stars Verseny
 Ha megoldható a technikai háttér - mobilos játékok versenye különböző kategóriákban.
 
 ---
@@ -123,20 +112,11 @@ tesitanárok managelnek - Köszönjük!
 ### 🎲 Társasjátékterem
 Behozunk különböző társasjátékokat, hogy a diákok kipróbálhassák őket és együtt játszhassanak.
 
-### 🐍 Állatsimogató
-M. Edina be tudja hozni a kígyóját, esetleg más diákok is hozhatnak háziállatokat (előzetes engedélyeztetés után).
-
 ### 🎬 MOZI
-4K-s TV-n vetítünk filmet vagy sorozatot. A műsort előzetesen szavazással választjuk ki a diákok között. (A felsősöknek külön mozi??)
-
-### 🥤 Frissítő Pont
-Mindenki hozzon be egy üdítőt, amit ha megengedik, egy iskolai hűtőben lehűthetünk. Aki szomjas, az ihat belőle.
+Zsolnayban vetítünk filmet vagy sorozatot. A műsort előzetesen szavazással választjuk ki a diákok között. (A felsősöknek külön mozi??)
 
 ### ⛏️ Minecraft Verseny
 A tavalyi sikeres Minecraft verseny folytatása különböző kihívásokkal.  
-
-### 🎒 No Backpack Day RELOADED
-A tavalyi "no backpack day" újragondolt változata, most jutalommal, hogy legyen motiváció a részvételhez.
 
 ### 🎵 Zene Kívánságműsor
 Hasonlóan a tavalyi évhez - diákok zenei kívánságainak lejátszása szünetekben vagy programok alatt. Előzetes szavazás alapján.
@@ -145,11 +125,11 @@ Hasonlóan a tavalyi évhez - diákok zenei kívánságainak lejátszása szüne
 Interaktív játék, ahol a tanárok elárulnak magukról egy-egy érdekes információt, amit nem sokan tudhatnak, de nem privát jellegű. A diákok feladata ezeket az információokat a megfelelő tanárokkal párosítani.
 
 ### 📱 Mobilos Játék Versenyek
-Clash Royale, Brawl Stars és más mobilos játékok versenye - ha megoldható a technikai háttér biztosítása.
+Brawl Stars játék versenye - ha megoldható a technikai háttér biztosítása.
 
-### 🎮 Játékterem (engedélyeztetés alatt)
+### 🎮 Játékterem
 Többjátékos videojátékok nagy TV-n való játszása.  
-A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és 4K tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
+A tanulók saját (vagy előre behozott) kontrollerrel csatlakozhatnak, és tévén ((amiket idén szereltek be egyes osztálytermekbe)) játszhatnak népszerű, akár 8 főt támogató videojátékokkal (pl. Super Smash Bros, Mario Kart). Szórakoztató, közösségépítő program minden korosztály számára.
 
 Megvalósítási terv:  
 A terembe beviszem a saját PC-met, amit HDMI-kábellel rákötünk az osztályterem tévéjére. A gépen előre feltelepített, többjátékos játékokat fogunk futtatni, amelyek támogatják a helyi (local) többfős játékot akár 8 játékos számára is – például **Super Smash Bros. Ultimate**, **Mario Kart** vagy **Overcooked!**.  
