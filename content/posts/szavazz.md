@@ -1,7 +1,7 @@
 ---
 title: "A SZAVAZÁS LEZÁRULT"
 date: 2025-06-10T13:59:32+02:00
-weight: 2 # Post order weight (lower numbers appear first)
+#weight: 2 # Post order weight (lower numbers appear first)
 # aliases: ["/first"] # Alternative URLs that redirect to this post
 tags: ["szavazz", "rám", "most", "kérlek"] # Tags for categorization and filtering
 categories: ["szavazás"] # Categories for broader classification
